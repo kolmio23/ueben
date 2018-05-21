@@ -18,6 +18,8 @@ export default class EnterName extends Component {
                 <div>
                     <p>Was möchtest du üben?</p>
                     <p/>
+                    <button onClick={this.chooseTraining}>Bundesländer</button>
+                    <p/>
                     <button onClick={this.chooseTraining}>Länder Europas</button>
                     <p/>
                     <button onClick={this.chooseTraining}>Multiplikation</button>
