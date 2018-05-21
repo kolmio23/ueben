@@ -5,7 +5,7 @@ const bundeslaender = [
     { "name": "Berlin", "capital": "Berlin" },
     { "name": "Brandenburg", "capital": "Potsdam" },
     { "name": "Bremen", "capital": "Bremen" },
-    { "name": "Hamburg", "capital": "" },
+    { "name": "Hamburg", "capital": "Hamburg" },
     { "name": "Hessen", "capital": "Wiesbaden" },
     { "name": "Mecklenburg-Vorpommern", "capital": "Schwerin" },
     { "name": "Niedersachsen", "capital": "Hannover" },
